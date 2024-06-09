@@ -14,7 +14,7 @@ Blending deep experience in data analytics, machine learning, and software engin
 * **Broadband Advanced Analyst** - AT&T, Dallas, Texas
 * **Metrics Reporting Analyst** - AT&T, Dallas, Texas
 * **Data Implementation Analyst** - IHS Markit, Dallas, Texas 
-* **Software Developer - ServiceNow** - Sabre Corporation, Southlake, Texas (2019)
+* **Software Developer - ServiceNow** - Sabre Corporation, Southlake, Texas
 
 ### **Toolbox 🛠️**
 * **Languages:** Python, R, SQL, C, Java, JavaScript  
