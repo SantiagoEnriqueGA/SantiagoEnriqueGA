@@ -10,9 +10,10 @@
 Blending deep experience in data analytics, machine learning, and software engineering, I transform data into actionable insights and innovative solutions.
 
 **Professional Highlights 🌟**  
-* **Senior Member of Technical Staff** - AT&T, Dallas, Texas (2021 - Present)
-* **Broadband Advanced Analyst** - AT&T, Dallas, Texas (2020 - 2021)
-* **Data Implementation Analyst** - IHS Markit, Dallas, Texas (2020 - 2021)
+* **Senior Member of Technical Staff** - AT&T, Dallas, Texas (Present)
+* **Broadband Advanced Analyst** - AT&T, Dallas, Texas
+* **Metrics Reporting Analyst** - AT&T, Dallas, Texas
+* **Data Implementation Analyst** - IHS Markit, Dallas, Texas 
 * **Software Developer - ServiceNow** - Sabre Corporation, Southlake, Texas (2019)
 
 **Toolbox 🛠️**
