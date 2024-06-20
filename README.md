@@ -23,8 +23,8 @@ Blending deep experience in data analytics, machine learning, and software engin
 * **Certifications:** Advanced Data Science IBM Specialization, Advanced Machine Learning and Signal Processing, Applied AI with DeepLearning, Fundamentals of Scalable Data Science
 
 ### **Education 🎓**  
-* **Master of Science in Analytics** (Computational Data Analytics Track) - Georgia Institute of Technology (Expected 2024)    
-* **Bachelor of Science in Information Technology and Systems** - The University of Texas at Dallas (2020)  
+* **Master of Science in Analytics** (Computational Data Analytics Track) - Georgia Institute of Technology   
+* **Bachelor of Science in Information Technology and Systems** - The University of Texas at Dallas 
 
 ### **Projects University/Personal 📊**  
 * **Rental Pricing Dashboard** - ISYE 6414 Regression Analysis
