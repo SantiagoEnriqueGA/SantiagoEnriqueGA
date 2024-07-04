@@ -30,6 +30,7 @@ Blending deep experience in data analytics, machine learning, and software engin
 * **Rental Pricing Dashboard** - ISYE 6414 Regression Analysis
   * Developed an XGBoost model for predicting apartment rental prices with a MAE of 47.90.
   * Led data collection, aggregation, and model fine-tuning for optimal accuracy and robustness.
+  * [GitHub Repository](https://github.com/SantiagoEnriqueGA/d3_apartment_rent_prediction_vis)
 
 * **Conway's Game of Life** - Personal Project 
   * Implemented Conway's Game of Life using Pygame for graphics and Numpy for array operations.
