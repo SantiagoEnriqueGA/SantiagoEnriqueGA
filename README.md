@@ -3,8 +3,9 @@
 🏫 Currently studying Computational Data Analytics at Georgia Institute of Technology  
 📍 Based in Texas  
 📧 sega97@gmail.com  
+👨‍💻 [Personal Website](https://santiagoenriquega.github.io/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/santiago-e-gonzalez/)  
-👨‍💻 [SantiagoEnriqueGA](https://github.com/SantiagoEnriqueGA)  
+
 
 ## **About Me 🌐**  
 Blending deep experience in data analytics, machine learning, and software engineering, I transform data into actionable insights and innovative solutions.
