@@ -59,10 +59,3 @@ These projects explore various computational problems, algorithm implementations
 | Terminal Tertis Game                     | Simple terminal-based Tetris game built with the curses library in Python.                           | Python, Curses                     | [GitHub Repo](https://github.com/SantiagoEnriqueGA/tetris_game)       |
 | Conway's Game of Life                | Conway's Game of Life using Pygame for graphics and Numpy for array operations. Optimized drawing, pause/resume functionality, and more. 							| Python, Pygame, Numpy	| [GitHub Repo](https://github.com/SantiagoEnriqueGA/gameOfLife)                     |
 | One Billion Row Challenge            | Various methods for processing one billion rows in Python as fast a possible.                           | Python, Pyspark, Dask, DuckDB, multiprocessing, Polars                     | [GitHub Repo](https://github.com/SantiagoEnriqueGA/one_billion_row_challenge)       |
-
-### **Leadership and Organizations 🏅**  
-* Dallas CASA (Court Appointed Special Advocates) (2021 - Current)
-* Co-Recruitment Chair, Delta Tau Delta Fraternity, UT Dallas (2016 - 2020)
-
-
-
