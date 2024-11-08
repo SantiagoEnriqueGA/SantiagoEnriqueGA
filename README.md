@@ -56,6 +56,7 @@ These projects explore various computational problems, algorithm implementations
 | Project                              | Description | Tools                             | Link                                                                                   |
 |--------------------------------------|-------------------------------|-----------------------------------|---------------------------------------|
 | Maze Path Finder                     | Implementing and visualizing algorithms for maze path finding in 2D and 3D.                           | Python, Curses, Ursina                     | [GitHub Repo](https://github.com/SantiagoEnriqueGA/maze_path_finder)       |
+| Terminal Tertis Game                     | Simple terminal-based Tetris game built with the curses library in Python.                           | Python, Curses                     | [GitHub Repo](https://github.com/SantiagoEnriqueGA/tetris_game)       |
 | Conway's Game of Life                | Conway's Game of Life using Pygame for graphics and Numpy for array operations. Optimized drawing, pause/resume functionality, and more. 							| Python, Pygame, Numpy	| [GitHub Repo](https://github.com/SantiagoEnriqueGA/gameOfLife)                     |
 | One Billion Row Challenge            | Various methods for processing one billion rows in Python as fast a possible.                           | Python, Pyspark, Dask, DuckDB, multiprocessing, Polars                     | [GitHub Repo](https://github.com/SantiagoEnriqueGA/one_billion_row_challenge)       |
 
