@@ -49,6 +49,7 @@ These projects focus on implementing machine learning algorithms from scratch, p
 |--------------------------------------|-------------------------------|-----------------------------------|---------------------------------------|
 | Custom Clustering                    | Custom classes for KMeans and DBSCAN from scratch, allowing for multiple clustering evaluation measures.																| Python, Numpy                     | [GitHub Repo](https://github.com/SantiagoEnriqueGA/custom_clustering)              |
 | Custom Ensemble Learning             | Custom classes for creating random forest classifiers and regressors, and for gradient boosted decision tree classifiers and regressors.                           | Python, Numpy                     | [GitHub Repo](https://github.com/SantiagoEnriqueGA/custom_ensemble_learning)       |
+| Custom Linear Learning             | Custom classes for Ordinary Least Squares (OLS), Ridge Regression, Lasso Regression, and Bayesian Regression.                           | Python, Numpy                     | [GitHub Repo](https://github.com/SantiagoEnriqueGA/custom_linear_learning)       |
 | Custom Neural Network                | Custom classes for creating and training neural networks from scratch.                           | Python, Numpy                     | [GitHub Repo](https://github.com/SantiagoEnriqueGA/custom_neural_net)       |
 
 #### **Other Projects**  
