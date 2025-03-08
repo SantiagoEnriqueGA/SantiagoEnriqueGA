@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e4c78&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a7058&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=3500&pause=500&color=3e4c78&width=435&lines=Hello%2C+I'm+Santiago+Gonzalez;Data+Scientist" alt="Data Scientist"/>
@@ -9,6 +9,7 @@
 📍  Based in Texas  
 📧 sega97@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/santiago-e-gonzalez/)  
+
 
 
 ## **About Me 🌐**  
@@ -70,4 +71,9 @@ These projects explore various computational problems, algorithm implementations
 | One Billion Row Challenge            | Various methods for processing one billion rows in Python as fast as possible. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-000000?style=flat) ![Dask](https://img.shields.io/badge/-Dask-000000?style=flat) ![DuckDB](https://img.shields.io/badge/-DuckDB-000000?style=flat) ![Polars](https://img.shields.io/badge/-Polars-000000?style=flat) | [GitHub Link](https://github.com/SantiagoEnriqueGA/one_billion_row_challenge)       |
 | GPU Programming                      | Various Python GPU accelerated computations and simulations. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![CuPy](https://img.shields.io/badge/-CuPy-000000?style=flat) ![PyOpenCL](https://img.shields.io/badge/-PyOpenCL-000000?style=flat) ![Numba](https://img.shields.io/badge/-Numba-000000?style=flat) | [GitHub Link](https://github.com/SantiagoEnriqueGA/gpu_projects)       |
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e4c78&height=120&section=footer" alt="footer"/>
+<!--
+<div style="text-align: center;">
+    <img width=100% src="https://raw.githubusercontent.com/SantiagoEnriqueGA/SantiagoEnriqueGA/refs/heads/main/assets/terminal.gif" alt="Terminal"/>
+</div>
+-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a7058&height=120&section=footer" alt="footer"/>
