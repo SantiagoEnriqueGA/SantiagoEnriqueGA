@@ -1,79 +1,131 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a7058&height=120&section=header" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4a7058&height=120&section=header" alt="header"/> 
+
+# Santiago Gonzalez | Data Scientist
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=3500&pause=500&color=3e4c78&width=435&lines=Hello%2C+I'm+Santiago+Gonzalez;Data+Scientist" alt="Data Scientist"/>
 </a>
 
-🚀 Senior Member of Technical Staff with a focus on analytics and machine learning  
-🏫 Currently studying Computational Data Analytics at Georgia Institute of Technology  
-📍  Based in Texas  
-📧 sega97@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/santiago-e-gonzalez/)  
+## 👨‍💻 At a Glance
 
+- 🚀 Senior Member of Technical Staff - Analytics & Machine Learning
+- 🏫 M.S. in Computational Data Analytics - Georgia Institute of Technology
+- 📍 Based in Texas
+- 📧 sega97@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/santiago-e-gonzalez/)
 
+## 💼 Professional Summary
 
-## **About Me 🌐**  
-Impact-driven Data Scientist with 5+ years of experience leveraging machine learning, advanced analytics, and automation to build production-ready tools. 
-Proven record of optimizing customer behavior models, reducing operational costs through scalable cloud solutions, and translating complex business challenges into actionable insights.
+Impact-driven Data Scientist with 5+ years of experience transforming complex business challenges into actionable insights through machine learning, advanced analytics, and automation. Proven track record of optimizing customer behavior models and reducing operational costs through scalable cloud solutions.
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,cpp)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=windows,powershell,git,vscode,anaconda)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+## 🛠️ Technical Skills
 
-### **Professional Highlights 🌟**  
-* **Senior Member of Technical Staff** - AT&T, Dallas, Texas (Present)
-* **Broadband Advanced Analyst** - AT&T, Dallas, Texas
-* **Metrics Reporting Analyst** - AT&T, Dallas, Texas
-* **Data Implementation Analyst** - IHS Markit, Dallas, Texas 
-* **Software Developer - ServiceNow** - Sabre Corporation, Southlake, Texas
+### Languages & Libraries
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-### **Toolbox 🛠️**
-* **Languages:** Python, R, SQL, C++
-* **Libraries:** Pandas/Polars, NumPy, Scikit-learn, PyTorch, PySpark
-* **Analytical Tools:** Power BI, Tableau, Palantir
-* **Certifications:** Advanced Data Science IBM Specialization, Advanced Machine Learning and Signal Processing, Applied AI with DeepLearning, Fundamentals of Scalable Data Science
+### Data Science & ML
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
 
-### **Education 🎓**  
-* **Master of Science in Analytics** (Computational Data Analytics Track) - Georgia Institute of Technology   
-* **Bachelor of Science in Information Technology and Systems** - The University of Texas at Dallas 
+[![CuPy](https://img.shields.io/badge/-CuPy-0080FF?style=for-the-badge&logo=python&logoColor=white)](https://cupy.dev/)
+[![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
+[![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)](https://www.opengl.org/)
+[![Numba](https://img.shields.io/badge/-Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white)](https://numba.pydata.org/)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-### **Projects University/Personal 📊**  
-Here are some projects I've worked on. Click on the links to see more about each!
+### Cloud
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
-#### **Analytics Focused Projects** 
-These projects emphasize data analysis and predictive modeling, leveraging various machine learning techniques and tools.  
-| Project                              | Description                                                                 | Tools                                                                                     | Link                                                                                   |
-|--------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Neural Network Drought Prediction    | Neural network model for multiclass classification to predict drought levels using meteorological data. Data preprocessing, model building, hyperparameter tuning, and evaluation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![SMOTE](https://img.shields.io/badge/-SMOTE-000000?style=flat) ![PCA](https://img.shields.io/badge/-PCA-000000?style=flat) | [GitHub Link](https://github.com/SantiagoEnriqueGA/drought_prediction_pytorch)  |
-| NLP Movie Spoiler Detector           | Various data engineering techniques and multiple machine learning models and neural networks are employed to identify reviews that contain spoilers. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-000000?style=flat) ![SMOTE](https://img.shields.io/badge/-SMOTE-000000?style=flat) ![PCA](https://img.shields.io/badge/-PCA-000000?style=flat) | [GitHub Link](https://github.com/SantiagoEnriqueGA/movie_spoilers_nlp)  |
-| Semantic Artist Similarity Analysis  | Analyzed artist similarity, building and analyzing artist similarity networks using NetworkX and visualization with Plotly. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NetworkX](https://img.shields.io/badge/-NetworkX-000000?style=flat) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white) | [GitHub Link](https://github.com/SantiagoEnriqueGA/artist_similarity_network)      |
-| Rental Pricing Predictor and Dashboard | XGBoost model for predicting apartment rental prices. Data collection, aggregation, and model fine-tuning for optimal accuracy and robustness. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-000000?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | [GitHub Link](https://github.com/SantiagoEnriqueGA/d3_apartment_rent_prediction_vis) |
-| Used Car Data Scraping and Analysis  | Automatically scraping data from Cars.com using BeautifulSoup. Pipeline to scrape data on several vehicle models, clean, and analyze the data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-000000?style=flat) | [GitHub Link](https://github.com/SantiagoEnriqueGA/used_car_price_visualization)   |
+### Visualization
 
-#### **Custom Machine Learning Projects** 
-These projects focus on implementing machine learning algorithms from scratch, providing deeper insights into their workings.  
-| Project                              | Description                                                                 | Tools                                                                                     | Link                                                                                   |
-|--------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| SEGA_LEARN                           | Custom Python package with scratch implementations of machine learning algorithms. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub Link](https://github.com/SantiagoEnriqueGA/sega_learn)              |
-| Custom Clustering                    | Custom classes for KMeans and DBSCAN from scratch, allowing for multiple clustering evaluation measures. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub Link](https://github.com/SantiagoEnriqueGA/custom_clustering)              |
-| Custom Ensemble Learning             | Custom classes for creating random forest classifiers and regressors, and for gradient boosted decision tree classifiers and regressors. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub Link](https://github.com/SantiagoEnriqueGA/custom_ensemble_learning)       |
-| Custom Linear Learning               | Custom classes for Ordinary Least Squares (OLS), Ridge Regression, Lasso Regression, Bayesian Regression, and Linear and Quadratic Discriminant Analysis (LDA and QDA). | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub Link](https://github.com/SantiagoEnriqueGA/custom_linear_learning)       |
-| Custom Neural Network                | Custom classes for creating and training neural networks from scratch. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub Link](https://github.com/SantiagoEnriqueGA/custom_neural_net)       |
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-007A4D?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-01727D?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
-#### **Other Projects**  
-These projects explore various computational problems, algorithm implementations, and optimization challenges.  
-| Project                              | Description                                                                 | Tools                                                                                     | Link                                                                                   |
-|--------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| SEGADB Custom Database               | Python-based database library with custom modules for database management, indexing, transactions, and constraints, showcasing foundational database concepts through tests and examples. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | [GitHub Link](https://github.com/SantiagoEnriqueGA/custom_database)       |
-| Maze Path Finder                     | Implementing and visualizing algorithms for maze path finding in 2D and 3D. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Curses](https://img.shields.io/badge/-Curses-000000?style=flat) ![Ursina](https://img.shields.io/badge/-Ursina-000000?style=flat) | [GitHub Link](https://github.com/SantiagoEnriqueGA/maze_path_finder)       |
-| Terminal Tetris Game                 | Simple terminal-based Tetris game built with the curses library in Python. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Curses](https://img.shields.io/badge/-Curses-000000?style=flat) | [GitHub Link](https://github.com/SantiagoEnriqueGA/tetris_game)       |
-| Conway's Game of Life                | Conway's Game of Life using Pygame for graphics and Numpy for array operations. Optimized drawing, pause/resume functionality, and more. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/-Pygame-000000?style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub Link](https://github.com/SantiagoEnriqueGA/gameOfLife)                     |
-| One Billion Row Challenge            | Various methods for processing one billion rows in Python as fast as possible. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-000000?style=flat) ![Dask](https://img.shields.io/badge/-Dask-000000?style=flat) ![DuckDB](https://img.shields.io/badge/-DuckDB-000000?style=flat) ![Polars](https://img.shields.io/badge/-Polars-000000?style=flat) | [GitHub Link](https://github.com/SantiagoEnriqueGA/one_billion_row_challenge)       |
-| GPU Programming                      | Various Python GPU accelerated computations and simulations. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![CuPy](https://img.shields.io/badge/-CuPy-000000?style=flat) ![PyOpenCL](https://img.shields.io/badge/-PyOpenCL-000000?style=flat) ![Numba](https://img.shields.io/badge/-Numba-000000?style=flat) | [GitHub Link](https://github.com/SantiagoEnriqueGA/gpu_projects)       |
+### DevOps
+
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+
+## 📈 Professional Experience
+
+|   | |
+|----------|---------|
+| **Senior Member of Technical Staff** | AT&T |
+| **Broadband Advanced Analyst** | AT&T | 
+| **Metrics Reporting Analyst** | AT&T | 
+| **Data Implementation Analyst** | IHS Markit | 
+| **Software Developer - ServiceNow** | Sabre Corporation |
+
+## 🎓 Education
+
+|  |  |  | 
+|--------|-------------|-------|
+| Georgia Institute of Technology | **Master of Science in Analytics** |  Computational Data Analytics Track |
+| The University of Texas at Dallas |**Bachelor of Science** |  Information Technology and Systems |
+
+<!-- ## 🔍 Certifications
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <div style="background-color: #f8f9fa; padding: 10px; border-radius: 5px; border-left: 4px solid #0066cc;">
+    <strong>Advanced Data Science</strong><br>IBM Specialization
+  </div>
+  <div style="background-color: #f8f9fa; padding: 10px; border-radius: 5px; border-left: 4px solid #0066cc;">
+    <strong>Advanced Machine Learning</strong><br>and Signal Processing
+  </div>
+  <div style="background-color: #f8f9fa; padding: 10px; border-radius: 5px; border-left: 4px solid #0066cc;">
+    <strong>Applied AI</strong><br>with DeepLearning
+  </div>
+  <div style="background-color: #f8f9fa; padding: 10px; border-radius: 5px; border-left: 4px solid #0066cc;">
+    <strong>Fundamentals</strong><br>of Scalable Data Science
+  </div>
+</div> -->
+
+## 🚀 Projects Portfolio
+
+### Analytics & ML Projects
+
+| Project | Description | Technologies | Link |
+|---------|-------------|--------------|------|
+| **Neural Network Drought Prediction** | Multi-class neural network model predicting drought levels using meteorological data with advanced preprocessing and hyperparameter tuning | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![SMOTE](https://img.shields.io/badge/-SMOTE-000000?style=flat) ![PCA](https://img.shields.io/badge/-PCA-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/drought_prediction_pytorch) |
+| **NLP Movie Spoiler Detector** | ML pipeline leveraging various models to identify reviews containing spoilers | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/movie_spoilers_nlp) |
+| **Semantic Artist Similarity Analysis** | Network analysis of artist similarity using graph theory and interactive visualization | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NetworkX](https://img.shields.io/badge/-NetworkX-000000?style=flat) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/artist_similarity_network) |
+| **Rental Pricing Predictor** | XGBoost model for predicting apartment rental prices with interactive dashboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/d3_apartment_rent_prediction_vis) |
+
+### ML From Scratch Implementations
+
+| Project | Description | Technologies | Link |
+|---------|-------------|--------------|------|
+| **SEGA_LEARN** | Custom Python package implementing ML algorithms from scratch | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/sega_learn) |
+| **Custom Clustering** | Implementations of KMeans and DBSCAN from first principles | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/custom_clustering) |
+| **Custom Ensemble Learning** | Random forest and gradient boosting implementations | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/custom_ensemble_learning) |
+| **Custom Neural Network** | Neural networks built from mathematical foundations | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/custom_neural_net) |
+
+### High-Performance Computing & Specialized Projects
+
+| Project | Description | Technologies | Link |
+|---------|-------------|--------------|------|
+| **SEGADB Custom Database** | Python-based database library with custom indexing and transaction support | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/custom_database) |
+| **One Billion Row Challenge** | Optimized methods for processing billion-row datasets in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-000000?style=flat) ![Polars](https://img.shields.io/badge/-Polars-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/one_billion_row_challenge) |
+| **GPU Programming** | GPU-accelerated computations and simulations in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![Numba](https://img.shields.io/badge/-Numba-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/gpu_projects) |
+
 
 <!--
 <div style="text-align: center;">
     <img width=100% src="https://raw.githubusercontent.com/SantiagoEnriqueGA/SantiagoEnriqueGA/refs/heads/main/assets/terminal.gif" alt="Terminal"/>
 </div>
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a7058&height=120&section=footer" alt="footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4a7058&height=120&section=footer" alt="footer"/>
