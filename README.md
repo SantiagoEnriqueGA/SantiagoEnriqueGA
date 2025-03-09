@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=3500&pause=500&color=4a7058&width=435&lines=Hello%2C+I'm+Santiago+Gonzalez;Data+Scientist" alt="Data Scientist"/>
 </a>
 
+
 ## 👨‍💻 At a Glance
 
 - 🚀 Senior Member of Technical Staff - Analytics & Machine Learning
@@ -119,6 +120,11 @@ Impact-driven Data Scientist with 5+ years of experience transforming complex bu
 | **SEGADB Custom Database** | Python-based database library with custom indexing and transaction support | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/custom_database) |
 | **One Billion Row Challenge** | Optimized methods for processing billion-row datasets in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-000000?style=flat) ![Polars](https://img.shields.io/badge/-Polars-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/one_billion_row_challenge) |
 | **GPU Programming** | GPU-accelerated computations and simulations in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![Numba](https://img.shields.io/badge/-Numba-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/gpu_projects) |
+
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SantiagoEnriqueGA&theme=dark&exclude_days=Sun%2CSat&excludeDaysLabel=00000000" alt="GitHub Streak" /></a>
+</p>
 
 
 <!--
