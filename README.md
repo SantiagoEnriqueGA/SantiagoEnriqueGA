@@ -33,7 +33,7 @@ Impact-driven Data Scientist with 5+ years of experience transforming complex bu
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
 
-[![CuPy](https://img.shields.io/badge/-CuPy-0080FF?style=for-the-badge&logo=python&logoColor=white)](https://cupy.dev/)
+[![CuPy](https://img.shields.io/badge/-CuPy-76B900?style=for-the-badge&logo=python&logoColor=white)](https://cupy.dev/)
 [![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)](https://www.opengl.org/)
 [![Numba](https://img.shields.io/badge/-Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white)](https://numba.pydata.org/)
@@ -109,9 +109,18 @@ Impact-driven Data Scientist with 5+ years of experience transforming complex bu
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
 | **SEGA_LEARN** | Custom Python package implementing ML algorithms from scratch | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/sega_learn) |
-| **Custom Clustering** | Implementations of KMeans and DBSCAN from first principles | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/custom_clustering) |
-| **Custom Ensemble Learning** | Random forest and gradient boosting implementations | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/custom_ensemble_learning) |
-| **Custom Neural Network** | Neural networks built from mathematical foundations | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/custom_neural_net) |
+
+| SEGA_LEARN Module | Description | Technologies | Link |
+|---------|-------------|--------------|------|
+| **Linear Models Module** | Scratch implementation of popular linear regression algorithms such as Ordinary Least Squares (OLS), Ridge Regression, Lasso Regression, Bayesian Regression, and RANSAC. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/sega_learn/tree/main/sega_learn/linear_models) |
+| **Clustering Module** | Scratch implementation of popular clustering algorithms such as K-Means and DBSCAN. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/sega_learn/tree/main/sega_learn/clustering) |
+| **Trees Module** | Scratch implementation of popular tree-based algorithms such as Decision Trees, Random Forests, and Gradient Boosting. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/sega_learn/tree/main/sega_learn/trees) |
+| **Nearest Neighbors Module** | Scratch implementation of the Nearest Neighbors algorithm. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/sega_learn/tree/main/sega_learn/nearest_neighbors) |
+| **Neural Networks** | Scratch implementation of a custom neural network with support for backpropagation and gradient descent. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Numba](https://img.shields.io/badge/-Numba-000000?style=flat) ![CuPy](https://img.shields.io/badge/-CuPy-76B900?style=flat&logo=python&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/sega_learn/tree/main/sega_learn/neural_networks) |
+| **Utility Module** | Scratch implementation of utility functions such as data preprocessing, model evaluation and selection, and data augmentation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/sega_learn/tree/main/sega_learn/utils) |
+
+
+
 
 ### High-Performance Computing & Specialized Projects
 
