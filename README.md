@@ -131,9 +131,11 @@ Impact-driven Data Scientist with 5+ years of experience transforming complex bu
 | **GPU Programming** | GPU-accelerated computations and simulations in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![Numba](https://img.shields.io/badge/-Numba-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/gpu_projects) |
 
 
+<!--
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SantiagoEnriqueGA&theme=dark&exclude_days=Sun%2CSat&excludeDaysLabel=00000000" alt="GitHub Streak" /></a>
 </p>
+-->
 
 
 <!--
