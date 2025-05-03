@@ -31,7 +31,7 @@ Impact-driven Data Scientist with 5+ years of experience transforming complex bu
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
+[![PySpark](https://img.shields.io/badge/-PySparvk-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
 
 [![CuPy](https://img.shields.io/badge/-CuPy-76B900?style=for-the-badge&logo=python&logoColor=white)](https://cupy.dev/)
 [![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
@@ -94,6 +94,8 @@ Impact-driven Data Scientist with 5+ years of experience transforming complex bu
 </div> -->
 
 ## 🚀 Projects Portfolio
+
+### Currently Working On: [SEGA_LEARN](https://github.com/SantiagoEnriqueGA/sega_learn)
 
 ### Analytics & ML Projects
 
