@@ -6,6 +6,8 @@
 </a>
 
 
+### Currently Working On: [ez-animate](https://github.com/SantiagoEnriqueGA/ez-animate)
+
 ## 👨‍💻 At a Glance
 
 - 🚀 Senior Member of Technical Staff - Analytics & Machine Learning
@@ -95,12 +97,12 @@ Impact-driven Data Scientist with 5+ years of experience transforming complex bu
 
 ## 🚀 Projects Portfolio
 
-### Currently Working On: [SEGA_LEARN](https://github.com/SantiagoEnriqueGA/sega_learn)
 
 ### Analytics & ML Projects
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
+| **ez-animate** | Custom high-level, declarative Python package for creating common Matplotlib animations with minimal boilerplate code.| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007A4D?style=flat&logo=matplotlib&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/ez-animate) |
 | **Neural Network Drought Prediction** | Multi-class neural network model predicting drought levels using meteorological data with advanced preprocessing and hyperparameter tuning | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![SMOTE](https://img.shields.io/badge/-SMOTE-000000?style=flat) ![PCA](https://img.shields.io/badge/-PCA-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/drought_prediction_pytorch) |
 | **NLP Movie Spoiler Detector** | ML pipeline leveraging various models to identify reviews containing spoilers | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-000000?style=flat) | [GitHub](https://github.com/SantiagoEnriqueGA/movie_spoilers_nlp) |
 | **Semantic Artist Similarity Analysis** | Network analysis of artist similarity using graph theory and interactive visualization | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NetworkX](https://img.shields.io/badge/-NetworkX-000000?style=flat) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) | [GitHub](https://github.com/SantiagoEnriqueGA/artist_similarity_network) |
